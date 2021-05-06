@@ -1,0 +1,614 @@
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+@media (min-width: 360px) {
+  
+#banner{
+
+margin-top: 1%;
+width: 330px;
+height: 200px;
+
+}
+
+.barra{
+
+background-color: #24222F;
+
+}
+
+body{
+
+background-color: #F7F2F2;
+
+}
+
+p{
+
+margin-top: 1%;
+color: #342D2D;
+
+
+}
+
+.elemento {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 5%;
+  margin-left: 5%;
+  background-color: orange;
+  position: relative;
+  animation-name: primeiro;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.elemento1 {
+  width: 50px;
+  height:  50px;
+  border-radius: 50px;
+  background-color: red;
+  position: relative;
+  animation-name: segundo;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;  
+}
+.elemento2 {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 40px;
+  border-radius: 50px;
+  background-color: blue;
+  position: relative;
+  animation-name: terceiro;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;  
+}
+
+@keyframes primeiro {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:50px;}
+  75%  {background-color:green; left:100px; top:50px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+@keyframes segundo {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:250px; top:0px;}
+  50%  {background-color:blue; left:250px; top:20px;}
+  75%  {background-color:green; left:0px; top:20px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+@keyframes  terceiro{
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:250px; top:0px;}
+  50%  {background-color:blue; left:250px; top:20px;}
+  75%  {background-color:green; left:0px; top:20px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+
+}
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@media (min-width: 480px) {
+  
+#banner{
+
+margin-top: 1%;
+width: 473px;
+height: 250px;
+
+}
+
+.barra{
+
+background-color: #24222F;
+
+}
+
+body{
+
+background-color: #F7F2F2;
+
+}
+
+p{
+
+margin-top: 1%;
+color: #342D2D;
+
+
+}
+
+.elemento {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 5%;
+  margin-left: 5%;
+  background-color: orange;
+  position: relative;
+  animation-name: primeiro;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.elemento1 {
+  width: 50px;
+  height:  50px;
+  border-radius: 50px;
+  background-color: red;
+  position: relative;
+  animation-name: segundo;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;  
+}
+.elemento2 {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 40px;
+  border-radius: 50px;
+  background-color: blue;
+  position: relative;
+  animation-name: terceiro;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;  
+}
+
+@keyframes primeiro {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:450px; top:0px;}
+  50%  {background-color:blue; left:450px; top:80px;}
+  75%  {background-color:green; left:100px; top:80px;
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+@keyframes segundo {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:450px; top:0px;}
+  50%  {background-color:blue; left:450px; top:40px;}
+  75%  {background-color:green; left:0px; top:40px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+@keyframes  terceiro{
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:450px; top:0px;}
+  50%  {background-color:blue; left:450px; top:80px;}
+  75%  {background-color:green; left:0px; top:80px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+
+}
+
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@media (min-width: 640px) {
+  
+#banner{
+
+margin-top: 1%;
+width: 635px;
+height: 280px;
+
+}
+
+.barra{
+
+background-color: #24222F;
+
+}
+
+body{
+
+background-color: #F7F2F2;
+
+}
+
+p{
+
+margin-top: 1%;
+color: #342D2D;
+
+
+}
+
+.elemento {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 5%;
+  margin-left: 5%;
+  background-color: orange;
+  position: relative;
+  animation-name: primeiro;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.elemento1 {
+  width: 50px;
+  height:  50px;
+  border-radius: 50px;
+  background-color: red;
+  position: relative;
+  animation-name: segundo;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;  
+}
+.elemento2 {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 40px;
+  border-radius: 50px;
+  background-color: blue;
+  position: relative;
+  animation-name: terceiro;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;  
+}
+
+@keyframes primeiro {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:450px; top:0px;}
+  50%  {background-color:blue; left:450px; top:80px;}
+  75%  {background-color:green; left:100px; top:80px;
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+@keyframes segundo {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:450px; top:0px;}
+  50%  {background-color:blue; left:450px; top:40px;}
+  75%  {background-color:green; left:0px; top:40px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+@keyframes  terceiro{
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:450px; top:0px;}
+  50%  {background-color:blue; left:450px; top:80px;}
+  75%  {background-color:green; left:0px; top:80px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+
+}
+
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@media (min-width:  770px) {
+  
+#banner{
+
+margin-top: 1%;
+width: 370px;
+height: 300px;
+
+}
+
+.barra{
+
+background-color: #24222F;
+
+}
+
+body{
+
+background-color: #F7F2F2;
+
+}
+
+p{
+
+margin-top: 1%;
+color: #342D2D;
+
+
+}
+
+.elemento {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 5%;
+  margin-left: 5%;
+  background-color: orange;
+  position: relative;
+  animation-name: primeiro;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.elemento1 {
+  width: 50px;
+  height:  50px;
+  border-radius: 50px;
+  background-color: red;
+  position: relative;
+  animation-name: segundo;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;  
+}
+.elemento2 {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 40px;
+  border-radius: 50px;
+  background-color: blue;
+  position: relative;
+  animation-name: terceiro;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;  
+}
+
+@keyframes primeiro {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:0px; top:0px;}
+  50%  {background-color:blue; left:0px; top:0px;}
+  75%  {background-color:green; left:0px; top:0px;
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+@keyframes segundo {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:150px; top:0px;}
+  50%  {background-color:blue; left:150px; top:40px;}
+  75%  {background-color:green; left:0px; top:40px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+@keyframes  terceiro{
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:150px; top:0px;}
+  50%  {background-color:blue; left:150px; top:80px;}
+  75%  {background-color:green; left:50px; top:80px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+
+}
+
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@media (min-width: 800px) {
+  
+#banner{
+
+margin-top: 1%;
+width: 400px;
+height: 380px;
+
+}
+
+.barra{
+
+background-color: #24222F;
+
+}
+
+body{
+
+background-color: #F7F2F2;
+
+}
+
+p{
+
+margin-top: 1%;
+color: #342D2D;
+
+
+}
+
+.elemento {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 5%;
+  margin-left: 5%;
+  background-color: orange;
+  position: relative;
+  animation-name: primeiro;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.elemento1 {
+  width: 50px;
+  height:  50px;
+  border-radius: 50px;
+  background-color: red;
+  position: relative;
+  animation-name: segundo;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;  
+}
+.elemento2 {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 40px;
+  border-radius: 50px;
+  background-color: blue;
+  position: relative;
+  animation-name: terceiro;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;  
+}
+
+@keyframes primeiro {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:300px; top:0px;}
+  50%  {background-color:blue; left:300px; top:300px;}
+  75%  {background-color:green; left:100px; top:300px;
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+@keyframes segundo {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:450px; top:0px;}
+  50%  {background-color:blue; left:450px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+@keyframes  terceiro{
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:450px; top:0px;}
+  50%  {background-color:blue; left:450px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+
+}
+
+
+/*/////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@media (min-width: 1100px){
+  
+#banner{
+
+margin-top: 1%;
+width: 520px;
+height: 450px;
+
+}
+
+.barra{
+
+background-color: #24222F;
+
+}
+
+body{
+
+background-color: #F7F2F2;
+
+}
+
+p{
+
+margin-top: 1%;
+color: #342D2D;
+
+
+}
+
+.elemento {
+  width:80px;
+  height:80px;
+  border-radius: 50px;
+  margin-top: 5%;
+  margin-left: 5%;
+  background-color: orange;
+  position: relative;
+  animation-name: primeiro;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.elemento1 {
+  width: 80px;
+  height:  80px;
+  border-radius: 50px;
+  background-color: red;
+  position: relative;
+  animation-name: segundo;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;  
+}
+.elemento2 {
+  width: 80px;
+  height:80px;
+  margin-bottom: 40px;
+  border-radius: 50px;
+  background-color: blue;
+  position: relative;
+  animation-name: terceiro;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;  
+}
+
+@keyframes primeiro {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:blue; left:250px; top:0px;}
+  50%  {background-color:green; left:250px; top:320px;}
+  75%  {background-color:red; left:100px; top:320px;
+  100% {background-color:blue; left:0px; top:0px;}
+}
+
+@keyframes segundo {
+  0%   {background-color:#16E9DD; left:0px; top:0px;}
+  25%  {background-color:#EB1B25; left:0px; top:0px;}
+  50%  {background-color:#F212F5; left:0px; top:0px;}
+  75%  {background-color:#AEEFB1; left:0px; top:0px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+@keyframes  terceiro{
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:150px; top:0px;}
+  50%  {background-color:blue; left:150px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
+
+
+
+}
